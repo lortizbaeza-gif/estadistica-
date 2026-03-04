@@ -1,2 +1,0 @@
-# estadistica-
-proyecto estadistica 
